@@ -1,0 +1,15 @@
+{
+  "name": "dancedirect/sagepay-vps",
+  "type": "library",
+  "description": "Sagepay VPS kit in PHP.",
+  "homepage": " https://github.com/dancedirect/sagepay-vps",
+  "authors": [
+    {
+      "name": "Jon Matthews",
+      "email": "jon.matthews@dancedirect.com"
+    }
+  ],
+  "autoload": {
+    "files": ["lib/sagepay.php"]
+  }
+}
